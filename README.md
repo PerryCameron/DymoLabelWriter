@@ -1,1 +1,1 @@
-A class for printing 4 lines on a DYMO LabelWriter 450
+A class for printing 4 lines on a DYMO LabelWriter 450 label
